@@ -2,8 +2,9 @@
 # .:TwoOrThree Referral Program - Open Positions
 www.twoorthree.co
 
-`Week 50, 2020` 
+`Week 51, 2020` 
 
 | Position | Description | Referral Bonus |
 | ----------- | ----------- | ----------- |
-| Senior Frontend Engineer (Angular + Leadership) | [Job Description](https://github.com/cartaviamTOT/referral-program/blob/main/jobs/Senior%20Frontend%20Engineer%20%28Angular%20+%20Leadership%29.pdf) | $250 |
+| Senior Frontend Engineer (Angular + Leadership) | [Job Description](jobs/Senior_Frontend_Engineer_Angular+Leadership.pdf) | $250 |
+| Sales / Marketing Expert | [Job Description](jobs/Sales_Marketing_Expert.pdf) | $100 |
