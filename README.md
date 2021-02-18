@@ -39,4 +39,4 @@ New Employee: professional hired by a company.
 - We value accuracy the most (hired reference) and rank referrers based on metric.
 - Referral bonuses are based on company-negotiated wages only.
 
-> To start receiving the Referral Bonus, the Referrer must submit an email to jobs@twoorthree.co with “Referral .:TwoOrThree” in the email subject, and include the name, phone number and email of the candidate being referred, as well as the job for which they are being referred.
+> To start receiving the Referral Bonus, the Referrer must fill the [.:TwoOrThree Referral Form](https://form.typeform.com/to/nQAZn0ST).
