@@ -2,6 +2,8 @@
 
 www.twoorthree.co
 
+## Find current Open Positions  [here](https://github.com/cartaviamTOT/referral-program/blob/main/open-positions.md)
+
 ## We all know .:TwoOrThree devs considering a job change.
 
 We constantly display great opportunities for devs in the quest for a better career-path, a new challenging project or an important range/salary jump. 
@@ -38,5 +40,3 @@ New Employee: professional hired by a company.
 - Referral bonuses are based on company-negotiated wages only.
 
 > To start receiving the Referral Bonus, the Referrer must submit an email to jobs@twoorthree.co with “Referral .:TwoOrThree” in the email subject, and include the name, phone number and email of the candidate being referred, as well as the job for which they are being referred.
-
-## Find current Open Positions  [here](https://github.com/cartaviamTOT/referral-program/blob/main/open-positions.md)

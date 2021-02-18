@@ -6,7 +6,7 @@ www.twoorthree.co
 
 | Position | Description | Referral Bonus |
 | ----------- | ----------- | ----------- |
-| Senior/Mid Frontend Engineer (Angular + Leadership) | [Job Description](jobs/Senior_Mid_Frontend_Engineer_Angular+Leadership.pdf) | $250 |
-| Sales/Marketing Expert | [Job Description](jobs/Sales_Marketing_Expert.pdf) | $100 |
+| Senior/Mid Frontend Engineer (Angular + Leadership) | [Job Description](jobs/Senior_Mid_Frontend_Engineer_Angular+Leadership.pdf) | $1,000 |
+| Senior/Mid Ruby Engineer | [Job Description](jobs/Senior_Mid_Ruby_Engineer.pdf) | $1,000 |
 
 Refer or apply to: jobs@twoorthree.co
