@@ -17,8 +17,8 @@ Coders are the star of our show. We’ve built a platform that helps shape the f
 
 If your friends don’t get hired we still want you to be part of our growth program.
 
+- Follow our relevant content. We solve developers greatest problems for free.
 - Take control of your professional improvement with access to online courses.
-- Participate in relevant talks focused on the latest tech and wellness.
 
 ## Participate
 
