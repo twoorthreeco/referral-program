@@ -1,8 +1,6 @@
 # .: TwoOrThree - Referral Program Manifesto
 
-www.twoorthree.co
-
-## Find current Open Positions  [here](https://github.com/cartaviamTOT/referral-program/blob/main/open-positions.md)
+## Find current Open Positions at [TwoOrThree.com](http://www.twoorthree.co)
 
 ## We all know .:TwoOrThree devs considering a job change.
 
@@ -38,5 +36,3 @@ New Employee: professional hired by a company.
 - There is no limit to references/applications. You can refer as many candidates as you like, to as many positions you like; but there’s no need to.
 - We value accuracy the most (hired reference) and rank referrers based on metric.
 - Referral bonuses are based on company-negotiated wages only.
-
-> To start receiving the Referral Bonus, the Referrer must fill the [.:TwoOrThree Referral Form](https://form.typeform.com/to/nQAZn0ST).
